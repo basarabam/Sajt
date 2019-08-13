@@ -5,7 +5,7 @@ layout: contact
 menu: 'main'
 ---
 
-Bice mi zadovoljstvo da stupimo u kontakt i zato odaberite nacin koji Vam najvise odgovara. Moje radno vreme je:
+Bice mi zadovoljstvo da stupimo u kontakt i zato odaberite nacin koji Vam najvise odgovara. Moje radno vreme je navedeno u tabeli dole:
 
 | Dan       | Vreme           |
 | --------- | --------------- |
