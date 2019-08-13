@@ -5,7 +5,7 @@ menu: 'main'
 
 Moje ime je Miloš Basaraba, diplomirani sam ekonomista i zanima me sve u vezi ekonomije, računara i unapredjenja poslovnih procesa.
 
-## Ne verba patulosque numen vix libet
+## Obrazovanje
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
 Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
