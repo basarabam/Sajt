@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   [params.logo]
     mobile = "/images/Beli_3D_Srednji.svg"
     standard  = "/images/Beli_3D_Srednji.svg"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "Advanced Business Applications"
 
   [params.homepage_meta_tags]
     meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
