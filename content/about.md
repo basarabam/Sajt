@@ -5,7 +5,7 @@ menu: 'main'
 
 Moje ime je Miloš Basaraba. Po struci sam diplomirani ekonomsita, a bavim se veštačenjem, podacima, poslovnim procesima, računarima, predavanjima i drugim aktivnostima pre svega iz oblasti veštačke inteligencije i mašinskog učenja i veza istih sa savremenim poslovnim procesima u svim domenima.
 
-![Milos Basaraba fotografija](/content/about_files/Slika_milos.png)
+![Milos Basaraba Fotografija](/./about_files/Slika_milos.png)
 ## Obrazovanje
 
 Završio sam Ekonomski fakultet u Beogradu, 2002. godine i sredinom iste godine diplomirao sa ocenom 10 na temu Tehnološki progres u poljoprivredi. 
