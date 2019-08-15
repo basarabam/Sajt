@@ -1,14 +1,12 @@
 ---
-title: "Mergers"
+title: "Biznis plan"
 date: 2018-11-28T15:15:34+10:00
 image: "/services/default.png"
 featured: true
 draft: false
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+U skladu sa vašim zahtevima vršimo izradu biznis plana. Biznis plan kao osnova dobijanja finansijskih sredstava, predstavlja najbitniji dokument vezan sa poslovanje vaše kompanije ili otpočinjanje poslovanja.
 
 ## Ne verba patulosque numen vix libet
 

@@ -1,16 +1,12 @@
 ---
-title: 'Business Sales'
+title: 'Web Aplikacije'
 date: 2018-11-28T15:15:26+10:00
 image: '/services/default.png'
 featured: true
 draft: false
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+Izrada web aplikacija zasnovanih na podacima, pre svega izrada dashboard-a, sa mogućnošću regulisanja željenih parametara, od strane korisnika. Praćenje svih relevantnih parametara, u realnom vremenu kroz prilagodljive i sveobuhvatne analize podataka.
 
 - Dente reponere dixere referre excessitque seque
 - Tacui si cui inde haec ubi trepidas

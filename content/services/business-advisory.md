@@ -8,7 +8,7 @@ draft: false
 
 Do sada smo izradili preko 500 nalaza i mišljenja veštaka iz ekonomsko-finansijske oblasti veštačenja, kako za potrebe sudova tako i za potrebe samih klijenata. Veštačenja radimo stručno i savesno u skladu sa pravilima struke i postavljenim zadatkom veštačenja. Naročito smo specijalizovani za veštačenja iz oblasti radnih odnosa, dužničko-poverilačkih odnosa, kreditnih odnosa, kupoprodajnih odnosa, utvrdjivanje visine štete i izmakle koristi, obračuna kamata, veštačenja u oblasti poreza, bankarskih veštačenja, veštačenja finansijskih prevara, kao i aktuarska veštačenja vezana za osiguravajuća društva i drugo.
 
-## Veštačenja radni odnosi
+## Veštačenja u radnim odnosima
 
 Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
 lassavit nihil oracula exiguo ligatis.
