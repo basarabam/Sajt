@@ -40,7 +40,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Footer Menu
 [[menu.footer]]
-	name = "Početns"
+	name = "Početna"
 	url = "/"
     weight = 1
 

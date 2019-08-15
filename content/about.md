@@ -1,27 +1,16 @@
 ---
-title: 'About'
+title: 'O meni'
 menu: 'main'
 ---
 
-Moje ime je Miloš Basaraba, diplomirani sam ekonomista i zanima me sve u vezi ekonomije, računara i unapredjenja poslovnih procesa.
+Moje ime je Miloš Basaraba. Po struci sam diplomirani ekonomsita, a bavim se veštačenjem, podacima, poslovnim procesima, računarima, predavanjima i drugim aktivnostima pre svega iz oblasti veštačke inteligencije i mašinskog učenja i veza istih sa savremenim poslovnim procesima u svim domenima.
 
+<img src="/content/about_files/Slika_milos.png" alt="Milos Basaraba" width="300px" height="600px"/>
 ## Obrazovanje
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Završio sam Ekonomski fakultet u Beogradu, 2002. godine i sredinom iste godine diplomirao sa ocenom 10 na temu Tehnološki progres u poljoprivredi. 
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
-
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+Tokom 2003 i 2004 godine, pohađao sam 
 
 ## Postquam tamen
 

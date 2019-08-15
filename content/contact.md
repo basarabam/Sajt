@@ -1,5 +1,5 @@
 ---
-title: 'Contact'
+title: 'Kontakt'
 date: 13.08.2019
 layout: contact
 menu: 'main'
