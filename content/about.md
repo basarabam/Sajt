@@ -14,9 +14,9 @@ Tokom 2003 i 2004 godine, služio sam obavezni vojni rok, tokom kog sam pohađao
 
 Tokom svog rada konstantno sam se usavršavao u domenu preduzetništva, prava, računovodstva, računarstva o čemu posedujem brojne certifikate o izvršenim stručnim obukama.
 
-Počevši od 2017. godine, intenzivno završavam preko 150 različitih kurseva iz oblasti data-science radeći na programskim jezicima kao što su R, Python, SQL sa svim pratećim paketima, te rad iz oblasti Data Science, Veštačke inteligencije i mašinskog učenja. Ove koncepte intenzivno primenjujem u svom svakodnevnom radu, što sam posao čini neuporedivo efikasnijim.
+Počevši od 2017. godine, intenzivno završavam preko 150 različitih kurseva iz oblasti data-science radeći na programskim jezicima kao što su R, Python, SQL sa svim pratećim paketima, te rad iz oblasti Data Science, Veštačke inteligencije i mašinskog učenja. Ove koncepte intenzivno primenjujem u svom svakodnevnom radu, što sam posao čini neuporedivo efikasnijim i produktivnijim.
 
-Osnovni moto mog rada jeste konstanto usavršavanje i konstantan rad na sebi, te se iz tog razloga konstanto usavršam naročito u oblastima ekonomije, prava, informatike i naravno data-scienc-a
+Osnovni moto mog rada jeste stalno usavršavanje i konstantan rad na sebi, te se iz tog razloga kontinuirano usavršam naročito u oblastima ekonomije, prava, informatike i naravno data-scienc-a.
 
 ## Radno iskustvo
 
