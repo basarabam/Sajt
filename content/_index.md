@@ -5,6 +5,6 @@ intro_image_absolute: true # edit /assets/scss/components/_intro-image.scss for 
 intro_image_hide_on_mobile: true
 ---
 
-# Sajt je u fazi izrade/Site is under construction!
+#  MI DAJEMO SMISAO PODACIMA!
 
-## Hvala na strpljenju/ Thanks for your patience
+## ODLUKE ZASNOVANE NA PODACIMA, PRIMENOM NAJSAVREMENIJIH RAČUNARSKIH TEHNIKA!

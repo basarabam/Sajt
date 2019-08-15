@@ -36,32 +36,6 @@
 
 
 
-<<<<<<< HEAD
-=======
-(function($) {
-  "use strict";
-  $.fn.rmarkdownStickyTabs = function() {
-    var context = this;
-    
-    var showStuffFromHash = function() {
-      var hash = window.location.hash;
-      var selector = hash ? 'a[href="' + hash + '"]' : 'li.active > a';
-      var $selector = $(selector, context);
-      if($selector.data('toggle') === "tab") {
-        $selector.tab('show');
-        
-        $selector.parents('.section.tabset').each(function(i, elm) {
-          var link = $('a[href="#' + $(elm).attr('id') + '"]');
-          if(link.data('toggle') === "tab") {
-            link.tab("show");
-          }
-        });
-      }
-    };
-
-
-<<<<<<< HEAD
->>>>>>> 7f8ee5493488a95865fd9adaab080acd605e05b7
   <div id="main-menu-mobile" class="main-menu-mobile">
   <ul>
     
@@ -77,11 +51,6 @@
         <span>Projekti</span>
       </a>
     </li>
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 15122f1a7591da110523ab0257a1f3f9ddd48a84
->>>>>>> 7f8ee5493488a95865fd9adaab080acd605e05b7
     
     <li class="menu-item-kontakt active">
       <a href="/contact/">
@@ -110,7 +79,6 @@
   <ul>
     
     
-<<<<<<< HEAD
     <li class="menu-item-usluge">
       <a href="/services/">
         
@@ -118,26 +86,12 @@
       </a>
     </li>
     
-=======
-<<<<<<< HEAD
->>>>>>> 7f8ee5493488a95865fd9adaab080acd605e05b7
     <li class="menu-item-projekti">
       <a href="/team/">
         
         <span>Projekti</span>
       </a>
     </li>
-<<<<<<< HEAD
-=======
-=======
-    var match = tabset.attr('class').match(/level(\d) /);
-    if (match === null)
-      return;
-    var tabsetLevel = Number(match[1]);
-    var tabLevel = tabsetLevel + 1;
-
->>>>>>> 15122f1a7591da110523ab0257a1f3f9ddd48a84
->>>>>>> 7f8ee5493488a95865fd9adaab080acd605e05b7
     
     <li class="menu-item-kontakt active">
       <a href="/contact/">
@@ -237,10 +191,6 @@
 </div>
 
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 7f8ee5493488a95865fd9adaab080acd605e05b7
   </div>
 
   <div class="footer">
@@ -286,11 +236,6 @@
     </div>
   </div>
 </div>
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 15122f1a7591da110523ab0257a1f3f9ddd48a84
->>>>>>> 7f8ee5493488a95865fd9adaab080acd605e05b7
 
   
 
