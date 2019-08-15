@@ -1,21 +1,14 @@
 ---
-title: 'Business Advisory'
+title: 'Veštačenja'
 date: 2018-11-28T15:14:39+10:00
 image: '/services/default.png'
 featured: true
 draft: false
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+Do sada smo izradili preko 500 nalaza i mišljenja veštaka iz ekonomsko-finansijske oblasti veštačenja, kako za potrebe sudova tako i za potrebe samih klijenata. Veštačenja radimo stručno i savesno u skladu sa pravilima struke i postavljenim zadatkom veštačenja. Naročito smo specijalizovani za veštačenja iz oblasti radnih odnosa, dužničko-poverilačkih odnosa, kreditnih odnosa, kupoprodajnih odnosa, utvrdjivanje visine štete i izmakle koristi, obračuna kamata, veštačenja u oblasti poreza, bankarskih veštačenja, veštačenja finansijskih prevara, kao i aktuarska veštačenja vezana za osiguravajuća društva i drugo.
 
-## Inter pectore totidem
+## Veštačenja radni odnosi
 
 Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
 lassavit nihil oracula exiguo ligatis.
