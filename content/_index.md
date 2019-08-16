@@ -1,6 +1,6 @@
 ---
-title: 'Home'
-intro_image: images/test_pie2.gif
+title: 'Početna'
+intro_image: images/test_pie3.gif
 intro_image_absolute: true # edit /assets/scss/components/_intro-image.scss for full control
 intro_image_hide_on_mobile: true
 ---
