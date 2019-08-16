@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Podaci u službi poslovanja"
+title = "Odluke zasnovane na podacima"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 
