@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Besplatne konsultacije",
+    "description": "Svaki novi klijent besplatno dobija 1 sat konsultacija",
     "image": "/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Sertifikovani saradnici",
+    "description": "Svi naši saradnici su sertifikovani za svoju oblast konsultacija",
     "image": "/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Pravovremene informacije",
+    "description": "Sve informacije, neophodne za uspešno sprovodjenje veašg cilja",
     "image": "/features/noun_3d modeling_1885342.svg"
   }
 ]
