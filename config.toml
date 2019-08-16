@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "Podaci u službi poslovanja"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 
@@ -17,8 +17,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     alt = "Advanced Business Applications"
 
   [params.homepage_meta_tags]
-    meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-    meta_og_title = "Hugo Serif Theme"
+    meta_description = "Nauka o podacima, veštačka inteligencija i mašinsko učenje u službi poslovanja"
+    meta_og_title = "Budućnost poslovanja"
     meta_og_type = "website"
     meta_og_url = "https://hugo-serif.netlify.com"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
