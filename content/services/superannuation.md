@@ -1,14 +1,12 @@
 ---
-title: "Superannuation"
+title: "Automatizacija poslovanja"
 date: 2018-11-28T15:14:54+10:00
 image: "/services/default.png"
 featured: true
 draft: false
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Automatizacija poslovanja obuhvata usluge izrade  softwera uz mogućnost obrade velike količine podataka (Big Data) kao i primene rešenja iz oblasti nauke o podacima (Data Science) uz primenu koncepata veštačka inteligencija (Artificial Intelligence - AI) i mašinskog učenja (Machine Learning - ML) te primena istih na konkretne poslovne situacije. 
 
 ## Ne verba patulosque numen vix libet
 

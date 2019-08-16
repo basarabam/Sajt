@@ -1,5 +1,5 @@
 ---
-title: 'Tax Preperation'
+title: 'Poslovni konsalting'
 date: 2018-11-18T12:33:46+10:00
 image: '/services/noun_1013177.png'
 draft: false
@@ -7,22 +7,21 @@ featured: true
 weight: 2
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Poslovni konsalting obuhvata brojne usluge iz domena poslovanja, kako iz pravnog i računovodstvenog aspekta, tako i iz poreskog i informacionog ugla poslovanja.
 
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
+Ove usluge obuhvataju poslove vezane za:
+-Osnivanje privrednih subjekata
+-Izradu pravnih akata
+-Analizu računovodstvenih i poreskih obaveza
+-Analizu angažovanja radnika
+-Analizu angažovanja pravnih savetnika
+-Odabir načina vodjenja računovodstva, prednosti i nedostatke
+-Implementacija računovodstvenih i poreskih politika
+-Poresko savetovanje
+-Odabir i implementacija softverskih rešenja
+-Ostale aktivnosti po zahtevu klijenta
 
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
-
-1. Imagine Assaracus victori petet femina mea haustos
-2. Sicaniam quibus agro magni
-3. In utque Troica pedum caelestia hunc tempto
-4. Gregibus certare tamen turbatque qui
+Sve navedene grupe usluga, imaju niz aktivnosti i posebno se ugovaraju od slučaja do slučaja kao i na mesečnom nivou u zavisnosti od obima posla i vremena angažovanja.
 
 ## Patulis Veneris est expulit adversaque magnum mediaque
 
