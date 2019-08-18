@@ -6,7 +6,7 @@
     <description>Recent content in Početna on Odluke zasnovane na podacima</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sr-sr</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -28,7 +28,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       
       <guid>/services/accounting/</guid>
       <description>U okviru usluga analize podataka, vršimo kompletnu analizu sirovih podataka, prema vašim potrebama i zahtevima, u cilju sagledavanja istih iz statističkog, poslovnog i ličnog ugla. Na osnovu istih dajemo preporuke i izdvajamo osnovnu poruku koju nam podaci govore.
-Izrada izveštaja U skladu sa pravilima struke i željama korisnika, vršimo izradu pisanih izveštaja u bilo kom formatu željenom formatu, kao što su na primer, word, excel, powerpoint, pdf, html itd. Navedene izveštaje, možete koristiti u poslovnom odlučivanju, dalje preradjivati ili pak koristiti za prezentacije na internetu.</description>
+Analiza podataka (Data analysis) Analiza podataka (Data Analysis) obuhvata otkrivanje obrazaca i šablona u malim, srednjim i velikim skupovima podataka. U postupku analize koristimo metode veštačke inteligencije, mašinskog učenja, sistema baze podataka i statistike.</description>
     </item>
     
     <item>
@@ -48,6 +48,15 @@ Izrada izveštaja U skladu sa pravilima struke i željama korisnika, vršimo izr
       <guid>/services/tax-preperation/</guid>
       <description>Poslovni konsalting obuhvata brojne usluge iz domena poslovanja, kako iz pravnog i računovodstvenog aspekta, tako i iz poreskog i informacionog ugla poslovanja.
 Ove usluge obuhvataju poslove vezane za: -Osnivanje privrednih subjekata -Izradu pravnih akata -Analizu računovodstvenih i poreskih obaveza -Analizu angažovanja radnika -Analizu angažovanja pravnih savetnika -Odabir načina vodjenja računovodstva, prednosti i nedostatke -Implementacija računovodstvenih i poreskih politika -Poresko savetovanje -Odabir i implementacija softverskih rešenja -Ostale aktivnosti po zahtevu klijenta</description>
+    </item>
+    
+    <item>
+      <title>Sajt je u fazi izrade</title>
+      <link>/post/sajt-je-u-fazi-izrade/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/sajt-je-u-fazi-izrade/</guid>
+      <description>Sajt je u fazi izrade, hvala na strpljenju</description>
     </item>
     
     <item>
@@ -116,8 +125,8 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>Zakažite poslovni sastanak ili konsultacije sa nama!/Arrange meeting with us!
-Klikom na link, iznad, bićete preusmereni na stranicu za zakazivanje sastanaka (na engleskom). Sastanak se održava isključivo putem Skyp-a!
+      <description>Postavite nam pitanje, i pošaljite upit putem kontaktnog formulara: 
+Zakažite poslovni sastanak ili konsultacije sa nama putem skyp-a! 
 Bice mi zadovoljstvo da stupimo u kontakt i zato odaberite nacin koji Vam najvise odgovara. Moje radno vreme je navedeno u tabeli dole:
    Dan Vreme     Ponedeljak 9:00 - 20:00   Utorak 9:00 - 20:00   Sreda 9:00 - 20:00   Cetvrtak 9:00 - 20:00   Petak 9:00 - 20:00   Subota 9:00 - 15:00   Nedelja Slobodan dan    </description>
     </item>

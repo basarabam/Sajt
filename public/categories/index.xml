@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Odluke zasnovane na podacima</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sr-sr</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Info</title>
+      <link>/categories/info/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/info/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>R</title>
