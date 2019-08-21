@@ -1,10 +1,10 @@
 ---
 title: 'Team'
-intro_image: images/undraw_modern_professional_yt9h.svg
+intro_image: images/avg_net_wage.gif
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Naši projekti
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Na ovoj strani možete videti naše projekte. Stranica će biti uskoro dostupna!

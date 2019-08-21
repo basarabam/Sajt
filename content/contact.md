@@ -5,7 +5,7 @@ layout: contact
 menu: 'main'
 ---
 Postavite nam pitanje, i pošaljite upit putem kontaktnog formulara:
-<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=_5HdaUaJiEGy9_dS75T3_nnfiYesK5VKlperZGeluy5UQjRBMVRPNjZJMVNXNFAyS0VBREFYMEsyNi4u&lang=sr-latn-RS&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=_5HdaUaJiEGy9_dS75T3_nnfiYesK5VKlperZGeluy5UQjRBMVRPNjZJMVNXNFAyS0VBREFYMEsyNi4u&lang=sr-latn-RS&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 Zakažite poslovni sastanak ili konsultacije sa nama putem skyp-a!
 <iframe src='https://outlook.office365.com/owa/calendar/PoslovnaagencijaAbacus1@aba.rs/bookings/' width='100%' height='400px' scrolling='yes' style='border:0'></iframe>
